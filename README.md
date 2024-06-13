@@ -31,4 +31,6 @@ for cell matched clustering and heatmaps, datasets used: mice_datasets/mice_para
 
 ![fig39_heatmaps_indiv_mice_INIT_ee](https://github.com/aozgur360/yarm-neural-analysis/assets/77759136/b9bcdb6b-f22b-4cb6-893d-95f056669a11)
 
+https://github.com/aozgur360/yarm-neural-analysis/assets/77759136/b76869f6-dddb-493f-afaa-1aafea79778c
+
 mice used when not specified by csv dataset: = ['m2r','m9r','m11n','m12lr','m13l','m14r','m15n','m16l','m17r','m19n','m21r','m22l','m23r','m25lr','m26r','m29n', 'm30lr', 'm31r','m32l','m33r','m34n','m36rr','m37l','m38n','m39rr','m40l', 'm41r','min4r','sn','snr']
